@@ -1,0 +1,33 @@
+{% extends 'layouts/main.html' %} {% block title %}Upload{% endblock %} {% block content %}
+
+<div class="page-header">
+    <h1>Upload Data</h1>
+</div>
+
+<!--<form method="post" enctype="multipart/form-data">
+    <p><input type="file" name="file">
+        <input type="submit" value="Upload">
+    </p>
+</form>-->
+
+<div class="row">
+			 <form class="col s12" action="/upload" method="POST" enctype="multipart/form-data">
+				
+				   <div class="file-field input-field">
+					  <div class="btn col s12 m4 l2">
+						 <span>UPLOAD</span>
+						 <input  type="file" name="file">
+					  </div>
+					  <div class="col s12 m4 l8 file-path-wrapper">
+						 <input class="file-path validate" type="text" placeholder="Upload file">
+					  </div>
+					  <div class="col s12 m4 l2">
+					  <button class="btn" type="submit" value="Upload">Submit</button>
+					</div>
+				   </div>
+			</form>
+</div>
+
+
+
+{% endblock %}

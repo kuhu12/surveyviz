@@ -1,0 +1,20 @@
+id,City,Cityid,SP,Time Slot,INVESTIGATOR_ID,SLUM_NAME,Sno,Age,NoOfChildern
+41724,agra,1,1,10-Jun-13,13,Gyaspura,22,21,0
+41750,agra,1,1,10-Jun-13,13,Nagla Budi,21,30,3
+41758,agra,1,1,10-Jun-13,13,Nagla Budi,13,26,1
+41726,agra,1,1,10-Jun-13,13,Gyaspura,20,25,2
+41741,agra,1,1,10-Jun-13,13,Gyaspura,5,25,1
+41733,agra,1,1,10-Jun-13,13,Gyaspura,13,26,2
+41743,agra,1,1,10-Jun-13,13,Gyaspura,3,37,4
+41759,agra,1,1,10-Jun-13,13,Nagla Budi,12,45,2
+41760,agra,1,1,10-Jun-13,13,Nagla Budi,11,30,2
+41753,agra,1,1,10-Jun-13,13,Nagla Budi,18,30,4
+41768,agra,1,1,10-Jun-13,13,Nagla Budi,3,48,2
+41732,agra,1,1,10-Jun-13,13,Gyaspura,14,31,4
+41723,agra,1,1,10-Jun-13,13,Gyaspura,23,29,3
+43051,aligarh,3,1,20-Jun-13,13,Gandhi nagar,22,36,0
+42113,aligarh,3,1,13-Jun-13,13,Kasim nagar,23,28,0
+44368,aligarh,3,1,25-Jun-13,13,Nagla klar,5,38,0
+42123,aligarh,3,1,13-Jun-13,13,Sarai kutub,25,22,0
+44285,aligarh,3,1,25-Jun-13,13,Vrindavan sarai,15,29,0
+42194,aligarh,3,1,13-Jun-13,13,Alambagh,16,37,1
